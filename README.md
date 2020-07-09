@@ -26,3 +26,4 @@ Hi! I'm Miguel, a **Freelance Software Developer Consultant** specialized in nat
 
 - Twitter: https://twitter.com/MiBLT
 - Website: https://beltran.work
+- Email: [m@beltran.work](mailto:m@beltran.work)
