@@ -7,6 +7,14 @@ Hi! I'm Miguel, a **Freelance Software Developer Consultant** specialized in nat
 - [flutter_material_showcase](https://github.com/miquelbeltran/flutter_material_showcase): Material Design components showcase for Flutter apps.
 - [flutter95](https://github.com/miquelbeltran/flutter95): Windows95 UI components for Flutter apps.
 
+## Past Open Source projects:
+
+- [android-architecture-sample](https://github.com/miquelbeltran/android-architecture-sample): Sample app using Kotlin, Coroutines, Architecture Components and more. With Unit and Instrumentation tests. 
+- [conductor-viewmodel](https://github.com/miquelbeltran/conductor-viewmodel): Adds ViewModel and LiveData support to Conductor library .
+- [android-presentation-patterns](https://github.com/miquelbeltran/android-presentation-patterns): Sample that implements a different presentation pattern on each branch.
+- [kotlin-code-gen-sample](https://github.com/miquelbeltran/kotlin-code-gen-sample): Code generation samples for Kotlin projects .
+- [kotlin-node.js](https://github.com/miquelbeltran/kotlin-node.js): Simple REST API with Node and Kotlin .
+
 ## Also contributed to:
 
 - [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran): Improved accessibility support on iOS.
