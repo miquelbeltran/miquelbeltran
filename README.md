@@ -1,6 +1,6 @@
 # Miguel Beltran - @MiBLT
 
-Hi! I'm Miguel, a **Freelance Software Developer Consultant** specialized in native and cross-platform mobile app development. I have years of experience on  Android, Flutter, Kotlin and Firebase products. I am based in Germany and love remote work!
+Hi! I'm Miguel, a **Freelance** dev specialized in native and cross-platform mobile app development. I have years of experience on Android, Flutter, Kotlin and Firebase products. I am based in Germany and love remote work!
 
 ## Current Open Source projects:
 
