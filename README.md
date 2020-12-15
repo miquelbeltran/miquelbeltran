@@ -4,6 +4,7 @@ Hi! I'm Miguel, a **Freelance** dev specialized in native and cross-platform mob
 
 ## Current Open Source projects:
 
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): based on existing Flutter plugins with extra functionalities, platforms support, and better maintenance.
 - [flutter_material_showcase](https://github.com/miquelbeltran/flutter_material_showcase): Material Design components showcase for Flutter apps.
 - [flutter95](https://github.com/miquelbeltran/flutter95): Windows95 UI components for Flutter apps.
 
@@ -17,7 +18,6 @@ Hi! I'm Miguel, a **Freelance** dev specialized in native and cross-platform mob
 
 ## Also contributed to:
 
-- [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins): Maintainer.
 - [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran): Contributor.
 - [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran): Contributor.
 - [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran): Contributor, created "Iterables" codelab.
