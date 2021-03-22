@@ -5,12 +5,12 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 ## Current Open Source projects:
 
-- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): based on existing Flutter plugins with extra functionalities, platforms support, and better maintenance.
+- Currently not actively maintaining any project.
+
+## Archived / On-Pause Open Source projects:
+
 - [flutter_material_showcase](https://github.com/miquelbeltran/flutter_material_showcase): Material Design components showcase for Flutter apps.
 - [flutter95](https://github.com/miquelbeltran/flutter95): Windows95 UI components for Flutter apps.
-
-## Archived Open Source projects:
-
 - [android-architecture-sample](https://github.com/miquelbeltran/android-architecture-sample): Sample app using Kotlin, Coroutines, Architecture Components and more. With Unit and Instrumentation tests. 
 - [conductor-viewmodel](https://github.com/miquelbeltran/conductor-viewmodel): Adds ViewModel and LiveData support to Conductor library .
 - [android-presentation-patterns](https://github.com/miquelbeltran/android-presentation-patterns): Sample that implements a different presentation pattern on each branch.
@@ -21,7 +21,9 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 - [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran): Contributor.
 - [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran): Contributor.
-- [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran): Contributor, created "Iterables" codelab.
+- [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran): Contributor, created and improved documentation.
+- [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran): Contributor, created and improved documentation.
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): based on existing Flutter plugins with extra functionalities, platforms support, and better maintenance.
 - [brianegan/flutter_redux](https://github.com/brianegan/flutter_redux/commits?author=miquelbeltran): Contributor.
 - [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger): Co-developed and maintainer of messaging app for Flutter.
 
