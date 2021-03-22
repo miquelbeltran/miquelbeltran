@@ -3,10 +3,6 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 ![Twitter Follow](https://img.shields.io/twitter/follow/miblt?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
 
-## Current Open Source projects:
-
-- Currently not actively maintaining any project.
-
 ## Archived / On-Pause Open Source projects:
 
 - [flutter_material_showcase](https://github.com/miquelbeltran/flutter_material_showcase): Material Design components showcase for Flutter apps.
