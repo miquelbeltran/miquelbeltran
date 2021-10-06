@@ -6,6 +6,7 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 ## Active Open Source projects:
 
 - [plus_plugins](https://github.com/fluttercommunity/plus_plugins): A collection of platform plugins for Flutter supporting mobile, desktop and web. Based on the original plugins from the Flutter team.
+- [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter): Creator and current maintainer of the Flutter client for Raygun.
 
 ## Archived / On-Pause Open Source projects:
 
