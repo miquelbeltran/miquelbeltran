@@ -3,6 +3,10 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 ![Twitter Follow](https://img.shields.io/twitter/follow/miblt?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
 
+## Active Open Source projects:
+
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): A collection of platform plugins for Flutter supporting mobile, desktop and web. Based on the original plugins from the Flutter team.
+
 ## Archived / On-Pause Open Source projects:
 
 - [flutter_material_showcase](https://github.com/miquelbeltran/flutter_material_showcase): Material Design components showcase for Flutter apps.
@@ -19,16 +23,16 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 - [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran): Contributor.
 - [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran): Contributor, created and improved documentation.
 - [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran): Contributor, created and improved documentation.
-- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): based on existing Flutter plugins with extra functionalities, platforms support, and better maintenance.
 - [brianegan/flutter_redux](https://github.com/brianegan/flutter_redux/commits?author=miquelbeltran): Contributor.
 - [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger): Co-developed and maintainer of messaging app for Flutter.
 
 ## Stuff I do outside coding:
 
-- Run [a podcast](https://codecafeteria.dev/) with @laramartin and @TheRealAgentK.
-- Publish [sketchnotes](https://sketchnoting.dev) online.
+- Run [a podcast](https://codecafeteria.dev/) with @laramartin and @TheRealAgentK. (on pause)
+- Publish [sketchnotes](https://sketchnoting.dev) online. (also on pause)
 - Failing at training an energetic [Labrador](https://twitter.com/LilianaVomLowen).
 - PC gaming.
+- Learning about synths.
 
 ## Get in touch
 
