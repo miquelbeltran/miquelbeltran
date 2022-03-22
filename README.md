@@ -22,18 +22,12 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 - [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran): Contributor.
 - [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran): Contributor.
+- [flutter/samples](https://github.com/flutter/samples/commits?author=miquelbeltran): Contributor.
+- [flutter/codelabs](https://github.com/flutter/codelabs/commits?author=miquelbeltran): Contributor.
 - [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran): Contributor, created and improved documentation.
 - [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran): Contributor, created and improved documentation.
 - [brianegan/flutter_redux](https://github.com/brianegan/flutter_redux/commits?author=miquelbeltran): Contributor.
 - [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger): Co-developed and maintainer of messaging app for Flutter.
-
-## Stuff I do outside coding:
-
-- Run [a podcast](https://codecafeteria.dev/) with @laramartin and @TheRealAgentK. (on pause)
-- Publish [sketchnotes](https://sketchnoting.dev) online. (also on pause)
-- Failing at training an energetic [Labrador](https://twitter.com/LilianaVomLowen).
-- PC gaming.
-- Learning about synths.
 
 ## Get in touch
 
