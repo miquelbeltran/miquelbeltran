@@ -20,14 +20,14 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 ## Also contributed to:
 
-- [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran): Contributor.
-- [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran): Contributor.
-- [flutter/samples](https://github.com/flutter/samples/commits?author=miquelbeltran): Contributor.
-- [flutter/codelabs](https://github.com/flutter/codelabs/commits?author=miquelbeltran): Contributor.
-- [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran): Contributor.
-- [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran): Contributor, created and improved documentation.
-- [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran): Contributor, created and improved documentation.
-- [brianegan/flutter_redux](https://github.com/brianegan/flutter_redux/commits?author=miquelbeltran): Contributor.
+- [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran)
+- [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran)
+- [flutter/samples](https://github.com/flutter/samples/commits?author=miquelbeltran)
+- [flutter/codelabs](https://github.com/flutter/codelabs/commits?author=miquelbeltran)
+- [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran)
+- [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran)
+- [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran)
+- [brianegan/flutter_redux](https://github.com/brianegan/flutter_redux/commits?author=miquelbeltran)
 - [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger): Co-developed and maintainer of messaging app for Flutter.
 
 ## Get in touch
