@@ -1,4 +1,4 @@
-Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cross-platform mobile app development. I have years of experience on Android, Flutter, Kotlin and Firebase products. I am based in Germany and love remote work!
+Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cross-platform mobile app development. I have years of experience on Flutter, Android, iOS, and Firebase products. I am based in Germany and love remote work!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/miblt?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
