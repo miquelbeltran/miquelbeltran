@@ -5,8 +5,8 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 ## Active open source projects:
 
-- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): A collection of platform plugins for Flutter supporting mobile, desktop and web. Based on the original plugins from the Flutter team.
-- [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter): Creator and current maintainer of the Flutter client for Raygun.
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins): Maintainer of a collection of platform plugins for Flutter supporting mobile, desktop and web. Based on the original plugins from the Flutter team.
+- [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter): Creator and maintainer of the Flutter client for Raygun.
 
 ## Also contributor of:
 
@@ -18,7 +18,7 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 - [dart-lang/site-www](https://github.com/dart-lang/site-www/commits?author=miquelbeltran)
 - [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran)
 - [brianegan/flutter_redux](https://github.com/brianegan/flutter_redux/commits?author=miquelbeltran)
-- [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger): Co-developed and maintainer of messaging app for Flutter.
+- [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger)
 
 ## Other archived / on-pause open source projects:
 
