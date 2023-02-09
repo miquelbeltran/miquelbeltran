@@ -21,8 +21,6 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 ## Get in touch
 
-- Twitter: https://twitter.com/MiBLT
-- Mastodon: https://androiddev.social/@miquel
-- Mastodon: https://fluttercommunity.social/@miquel
 - Website: https://beltran.work
 - Email: [m@beltran.work](mailto:m@beltran.work)
+- Mastodon: https://fluttercommunity.social/@miquel
