@@ -1,8 +1,5 @@
 Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in mobile app development: Flutter, Android, iOS, and Firebase products.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/miblt?style=social)
-![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
-
 ## Open source work as contractor:
 
 - [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter/commits?author=miquelbeltran): Flutter client for Raygun.
