@@ -1,4 +1,4 @@
-Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cross-platform mobile app development: Flutter, Android, iOS, and Firebase products.
+Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in mobile app development: Flutter, Android, iOS, and Firebase products.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/miblt?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/miquelbeltran?style=social)
@@ -23,4 +23,3 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in native and cro
 
 - Website: https://beltran.work
 - Email: [m@beltran.work](mailto:m@beltran.work)
-- Mastodon: https://fluttercommunity.social/@miquel
