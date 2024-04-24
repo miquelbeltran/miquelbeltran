@@ -1,10 +1,11 @@
 Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in mobile app development: Flutter, Android, iOS, and Firebase products.
 
-I am currently looking for work opportunities, specially those that would enable me to work on open-source code.
+I'm always interested in work opportunities that involve open-source code.
 
 ## Open source work as contractor:
 
 - [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter/commits?author=miquelbeltran): Flutter client for Raygun.
+- [raygun4node](https://github.com/MindscapeHQ/raygun4node/commits?author=miquelbeltran): Node.js client for Raygun.
 - [flutter/samples](https://github.com/flutter/samples/commits?author=miquelbeltran): Maintenance and creation of code samples
 - [flutter/codelabs](https://github.com/flutter/codelabs/commits?author=miquelbeltran): Maintenance and creation of codelabs
 - [flutter/website](https://github.com/flutter/website/commits?author=miquelbeltran): Maintenance and creation of Flutter documentation.
