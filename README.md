@@ -6,6 +6,11 @@ I'm always interested in work opportunities that involve open-source code.
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/miquelbeltran)
 
+## FOSS Projects I work on:
+
+- [flutter95](https://github.com/miquelbeltran/flutter95): Creator and maintainer.
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins/commits?author=miquelbeltran): Maintainer team.
+
 ## Open source work as contractor:
 
 - [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter/commits?author=miquelbeltran): Flutter client for Raygun.
@@ -18,7 +23,6 @@ I'm always interested in work opportunities that involve open-source code.
 
 ## Also contributor of:
 
-- [plus_plugins](https://github.com/fluttercommunity/plus_plugins/commits?author=miquelbeltran): Maintainer team.
 - [flutter/flutter](https://github.com/flutter/flutter/commits?author=miquelbeltran)
 - [flutter/engine](https://github.com/flutter/engine/commits?author=miquelbeltran)
 
