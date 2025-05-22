@@ -1,4 +1,4 @@
-Hi! :wave: I'm Miguel Beltran, a **Freelance** dev specialized in mobile app development: Flutter, Android, iOS, and Firebase products.
+Hi! :wave: I'm Miguel Beltran, a **Freelance** dev skilled at building software applications with strong focus on cross-platform apps using Flutter (Dart), and extensive experience in iOS (Swift) and Android (Kotlin) native app development. As well, comfortable working with all kinds of codebases, including .Net and Node.js.
 
 I'm always interested in work opportunities that involve open-source code.
 
