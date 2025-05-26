@@ -6,6 +6,8 @@ I'm always interested in work opportunities that involve open-source code.
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/miquelbeltran)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=miquelbeltran)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ## FOSS Projects I work on:
 
 - [flutter95](https://github.com/miquelbeltran/flutter95): Creator and maintainer.
