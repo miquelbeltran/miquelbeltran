@@ -15,18 +15,24 @@ I'm always interested in work opportunities that involve open-source code.
 
 ## Open source work as contractor:
 
-- [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter/pulls?q=author%3Amiquelbeltran+is%3Apr): Flutter client for Raygun.
-- [raygun4node](https://github.com/MindscapeHQ/raygun4node/pulls?q=author%3Amiquelbeltran+is%3Apr): Node.js client for Raygun.
-- [@raygun.io/aws-lambda](https://github.com/MindscapeHQ/raygun4node-aws-lambda/pulls?q=author%3Amiquelbeltran+is%3Apr): AWS Lambda plugin for Raygun4Node.
+### Raygun (MindscapeHQ) [Pull requests](https://github.com/search?q=org%3AMindscapeHQ+author%3Amiquelbeltran+is%3Apr+&type=pullrequests)
+
+- [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter): Raygun provider for Flutter
+- [raygun4node](https://github.com/MindscapeHQ/raygun4node): Raygun provider for Node.js
+- [@raygun.io/aws-lambda](https://github.com/MindscapeHQ/raygun4node-aws-lambda): AWS Lambda plugin for Raygun4Node
+- [raygun4android](https://github.com/MindscapeHQ/raygun4android): Raygun provider for Android
+- [raygun4py](https://github.com/MindscapeHQ/raygun4py): Raygun provider for Python
+- [raygun4reactnative](https://github.com/MindscapeHQ/raygun4reactnative): Raygun provider for React Native and Expo
+- [raygun4net](https://github.com/MindscapeHQ/raygun4net): Raygun provider for .Net applications
+
+### Flutter [Pull requests](https://github.com/search?q=org%3Aflutter+author%3Amiquelbeltran+is%3Apr+&type=pullrequests)
+
 - [flutter/samples](https://github.com/flutter/samples/pulls?q=author%3Amiquelbeltran+is%3Apr): Maintenance and creation of code samples
 - [flutter/codelabs](https://github.com/flutter/codelabs/pulls?q=author%3Amiquelbeltran+is%3Apr): Maintenance and creation of codelabs
 - [flutter/website](https://github.com/flutter/website/pulls?q=author%3Amiquelbeltran+is%3Apr): Maintenance and creation of Flutter documentation.
 - [dart-lang/site-www](https://github.com/dart-lang/site-www/pulls?q=author%3Amiquelbeltran+is%3Apr): Maintenance and creation of Dart documentation.
-
-## Also contributor of:
-
-- [flutter/flutter](https://github.com/flutter/flutter/pulls?q=author%3Amiquelbeltran+is%3Apr)
-- [flutter/engine](https://github.com/flutter/engine/pulls?q=author%3Amiquelbeltran+is%3Apr)
+- [flutter/flutter](https://github.com/flutter/flutter/pulls?q=author%3Amiquelbeltran+is%3Apr): Contributions to the Flutter framework
+- [flutter/engine](https://github.com/flutter/engine/pulls?q=author%3Amiquelbeltran+is%3Apr): Contributions to the Flutter engine
 
 ## Get in touch
 
