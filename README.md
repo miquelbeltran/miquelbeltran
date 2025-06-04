@@ -2,9 +2,7 @@ Hi! :wave: I'm Miguel Beltran, a **Freelance** dev skilled at building software 
 
 I'm always interested in work opportunities that involve open-source code.
 
-**Become a sponsor and help me do open-source!**
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/miquelbeltran)
+_GitHub Sponsorship currently on pause_
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=miquelbeltran)](https://github.com/LordDashMe/github-contribution-stats/)
 
