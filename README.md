@@ -6,10 +6,10 @@ _GitHub Sponsorship currently on pause_
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=miquelbeltran)](https://github.com/LordDashMe/github-contribution-stats/)
 
-## FOSS Projects I work on:
+## FOSS projects I worked on:
 
 - [flutter95](https://github.com/miquelbeltran/flutter95): Creator and maintainer.
-- [plus_plugins](https://github.com/fluttercommunity/plus_plugins/pulls?q=author%3Amiquelbeltran+is%3Apr): Maintainer team.
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins/pulls?q=author%3Amiquelbeltran+is%3Apr)
 
 ## Open source work as contractor:
 
