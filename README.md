@@ -1,15 +1,14 @@
-Hi! :wave: I'm Miguel Beltran, a **Freelance** dev skilled at building software applications with strong focus on cross-platform apps using Flutter (Dart), and extensive experience in iOS (Swift) and Android (Kotlin) native app development. As well, comfortable working with all kinds of codebases, including .Net and Node.js.
+Hi! :wave: I'm Miguel Beltran, a **Freelance** dev skilled at building software applications with strong focus on cross-platform mobile apps using Kotlin Multiplatform and Flutter, and extensive experience in iOS (Swift) and Android (Kotlin) native app development. As well, comfortable working with all kinds of codebases, including .Net and JavaScript.
 
 I'm always interested in work opportunities that involve open-source code.
-
-_GitHub Sponsorship currently on pause_
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=miquelbeltran)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## FOSS projects I worked on:
 
-- [flutter95](https://github.com/miquelbeltran/flutter95): Creator and maintainer.
-- [plus_plugins](https://github.com/fluttercommunity/plus_plugins/pulls?q=author%3Amiquelbeltran+is%3Apr)
+- [flutter95](https://github.com/miquelbeltran/flutter95): Creator
+- [flutter_material_showcase](https://github.com/miquelbeltran/flutter_material_showcase): Creator
+- [plus_plugins](https://github.com/fluttercommunity/plus_plugins) (my [pull requests](https://github.com/fluttercommunity/plus_plugins/pulls?q=author%3Amiquelbeltran+is%3Apr)): Maintainer until 2025
 
 ## Open source work as contractor:
 
