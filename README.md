@@ -15,6 +15,7 @@ I'm always interested in work opportunities that involve open-source code.
 ### Raygun (MindscapeHQ) [Pull requests](https://github.com/search?q=org%3AMindscapeHQ+author%3Amiquelbeltran+is%3Apr+&type=pullrequests)
 
 - [raygun4flutter](https://github.com/MindscapeHQ/raygun4flutter): Raygun provider for Flutter
+- [raygun-cli](https://github.com/MindscapeHQ/raygun-cli): CLI to interact with the Raygun API, build in Dart
 - [raygun4node](https://github.com/MindscapeHQ/raygun4node): Raygun provider for Node.js
 - [@raygun.io/aws-lambda](https://github.com/MindscapeHQ/raygun4node-aws-lambda): AWS Lambda plugin for Raygun4Node
 - [raygun4android](https://github.com/MindscapeHQ/raygun4android): Raygun provider for Android
